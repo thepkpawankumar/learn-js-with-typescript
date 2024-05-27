@@ -6,12 +6,12 @@
 npm i -g typescript
 
 ```
-# Check Typescript version
+### Check Typescript version
 ```
 tsc -v
 
 ```
-# Compile Typescript
+### Compile Typescript
 
 Here index is the name of typescript file index.ts
 
