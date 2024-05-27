@@ -1,6 +1,6 @@
 ﻿# Learn javascript with typescript
 
-# Install Typescript
+## Install Typescript
 
 ```
 npm i -g typescript
