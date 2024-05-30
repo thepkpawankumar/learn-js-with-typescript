@@ -19,7 +19,8 @@ tsc index
 
 ### Specifying output folder
 
---outfile --> It is used to specify output file and folder
+--outfile --> It is used to specify output file and folder   
+
 -w --> It is used to compile changes automatically when we make any changes
 
 ```
