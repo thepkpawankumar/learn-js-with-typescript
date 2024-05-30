@@ -5,7 +5,8 @@
   "main": "public/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node public/index.js && tsc -w"
+    "dev": "node public/index.js",
+    "tsc": "tsc -w"
   },
   "keywords": [],
   "author": "",
