@@ -27,8 +27,8 @@ tsc index
 
 ```
 tsc index.ts  --outfile  public/index.js  -w
-
 ```
+
 ### To create ts config file
 
 ```
