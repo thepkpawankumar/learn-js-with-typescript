@@ -5,13 +5,11 @@ type ApiResponse<T extends object = {status: number}> = {
 
 type User = {
     name: string,
-   // email?: string
    email: string
 }
 const userResponse: ApiResponse<User> = {
 
     data: {
-
         name: "Foo",
         email: "foo@bar.com"
     },
