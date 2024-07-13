@@ -2,8 +2,6 @@ let sport: string = "footbal";
 
 let id: number = 5;
 
-console.log(id);
-
 // Array and promises are inbuilt generics
 
 const tabs: Array<string> = ["Home", "About", "Contact"];
