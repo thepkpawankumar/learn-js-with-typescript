@@ -15,7 +15,6 @@ const p1 = Promise.resolve("hello");
 const p2 = Promise.resolve(12);
 
 (async () => {
-
     console.log(await p1)
 })();
 console.log(x, y);
