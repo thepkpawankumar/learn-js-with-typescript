@@ -13,6 +13,7 @@ const userResponse: ApiResponse<User> = {
         name: "Foo",
         email: "foo@bar.com"
     },
+    
     isError: false
 }
 const stringResponse: ApiResponse<{string}> = {
