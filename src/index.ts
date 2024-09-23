@@ -7,6 +7,7 @@ const tabs: Array<string> = ["Home", "About", "Contact"];
 
 const a1 = [10, 20, 30, "Value"];
 
+
 const x = tabs.pop();
 const y = a1.pop();
 
